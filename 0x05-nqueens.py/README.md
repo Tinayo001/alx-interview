@@ -1,1 +1,0 @@
-Nqueens interview question solved
